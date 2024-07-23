@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile
 
+I've nothing much on github because i mostly write code that makes money.
+
 ## 👋 About Me
 
 I'm Mohit Kumar, a dedicated and innovative software engineer with a passion for building scalable and secure solutions. Currently based in Noida, Delhi, I specialize in backend development, cloud technologies, and system design.
