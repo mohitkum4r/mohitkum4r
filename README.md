@@ -47,5 +47,5 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 - [LinkedIn](https://www.linkedin.com/in/mohitkum4r/)
 - [Email](mailto:mohitkumar4706@gmail.com)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mohitkum4r.mohitkum4r)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohitkum4r)
 
