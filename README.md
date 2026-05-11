@@ -19,9 +19,12 @@
 
 ### 🚀 High-Impact Projects
 
-- **[Crypto Asset Orchestration](https://mohitkumar.site):** Building generalized transfer tools and rebalancing engines for multi-million dollar daily transactions between Fireblocks and institutional exchanges.
+- **[Crypto Asset Orchestration](https://mohitkumar.site) (Galaxy Digital):** Building generalized transfer tools and rebalancing engines for multi-million dollar daily transactions between Fireblocks and institutional exchanges.
+- **[Apple Pay Later | Flexi Credit](https://credit.pinelabs.com/) (Pine Labs):** Designed architecture for Apple Pay Later, integrating HDFC, ICICI, and Kotak. Reduced merchant whitelisting time by **99.11%** using Kafka, caching, and multithreading.
+- **[Adda247 | Career Power](https://www.adda247.com/):** Developed common-consumption modules to prevent site crashes under high load and implemented Redis to optimize live class performance for **10M+ MAU**.
 - **[AutoTrade Bot](https://github.com/mohitkum4r/AutoTrade-Bot):** ML-driven strategy selection with LLM-powered sentiment analysis via RAG pipeline.
 - **[Infrastructure Evolution](https://mohitkumar.site):** Led zero-downtime migration of 50+ microservices from EC2 to Kubernetes (EKS).
+- **[Rezo AI](https://www.rezo.ai/):** Engineered low-latency conversational bots for automated client contact centers across WhatsApp, Web, and Call.
 
 ---
 
