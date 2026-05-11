@@ -1,53 +1,53 @@
-# Welcome to my GitHub Profile
+# Hey there! I'm Mohit Kumar <img src="https://media.giphy.com/media/hvRJCLzPaCUE6mo2za/giphy.gif" width="25px">
 
-I've nothing much on github because i mostly write code that makes money.
+### Software Development Engineer 2 @ Publicis Sapient (Client: Galaxy Digital)
+**Building backend systems that don’t panic under pressure.** I specialize in secure asset orchestration, high-scale financial infra, and cloud-native migrations.
 
-## 👋 About Me
+[Explore my work at mohitkumar.site →](https://mohitkumar.site)
 
-I'm Mohit Kumar, a dedicated and innovative software engineer with a passion for building scalable and secure solutions. Currently based in Noida, Delhi, I specialize in backend development, cloud technologies, and system design.
+---
 
-- 🔭 Currently working at Pine Labs as a Software Engineer, focusing on Apple Pay Later, Lending, and Anti-Money Laundering (AML).
-- 🌱 Learning: Advanced FastAPI, cloud-native architectures, and enhancing system security.
-- 💼 Previous experiences include roles at Rezo AI and Adda247.
-- 💬 Ask me about: Java, Spring Boot, Go, Docker, Kubernetes, AWS, system design, data scraping, and microservices.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohitkum4r/) | [Email](mailto:mohitkumar4706@gmail.com)
+### 💻 Technical Expertise (from [mohitkumar.site/skills](https://mohitkumar.site))
 
-## 🛠️ Tech Stack
+- **Backend & Core:** Java (8-21), Python, Spring Boot, Spring Security, Hibernate, TDD, System Design
+- **Data & Streaming:** Apache Kafka, RabbitMQ, PostgreSQL, Redis, Elasticsearch, DynamoDB
+- **Cloud & DevOps:** AWS (EKS, Lambda, S3), Kubernetes, Docker, Terraform, Jenkins, CI/CD
+- **AI/ML Integration:** RAG Pipelines, LLM Orchestration, LangChain, Vector Databases
+- **Observability:** Datadog, Grafana, OpenTelemetry, SonarQube
 
-### Languages & Frameworks
-- **Backend**: Java (8, 11, 17, 21), Spring Boot, Go, Hibernate, JPA
-- **Frontend**: JavaScript, HTML, CSS
-- **Scripting**: Python
+---
 
-### Tools & Platforms
-- **Cloud**: AWS
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins
-- **Data Streaming**: Apache Kafka, Schema Registry
-- **Database**: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+### 🚀 High-Impact Projects
 
-## 🚀 Projects
+- **[Crypto Asset Orchestration](https://mohitkumar.site):** Building generalized transfer tools and rebalancing engines for multi-million dollar daily transactions between Fireblocks and institutional exchanges.
+- **[AutoTrade Bot](https://github.com/mohitkum4r/AutoTrade-Bot):** ML-driven strategy selection with LLM-powered sentiment analysis via RAG pipeline.
+- **[Infrastructure Evolution](https://mohitkumar.site):** Led zero-downtime migration of 50+ microservices from EC2 to Kubernetes (EKS).
 
-### [Apple Pay Later | Flexi Credit | Pay Later](https://credit.pinelabs.com)
-Designed and developed the architecture for Apple Pay Later, integrating multiple lenders like HDFC, ICICI, and Kotak to enable personalized financial options for lending platforms. Reduced merchant whitelisting time by 99.11% using Kafka, caching, multithreading, and algorithms.
+---
 
-### [Adda247 | Career Power](https://www.adda247.com)
-Developed a common-consumption module to prevent site crashes under high load and implemented Redis for faster API response times, improving live class performance. Pioneered multilingual packages for better accessibility.
+### ✍️ Latest Writing
+*I write about backend engineering, AI, and building scalable systems.*
+- **Check out my blog:** [mohitkumar.site/blog](https://mohitkumar.site/blog)
 
-### [Rezo AI](https://www.rezo.ai/)
-Engineered low-latency conversational bots for automated client contact centers, enabling seamless integration of service platforms like Call, WhatsApp, and Web chat.
+---
 
+### 📈 GitHub Stats
 
-## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mohitkum4r&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkum4r&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
+</p>
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitkum4r&show_icons=true&theme=radical)
+---
 
-## 🤝 Let's Connect
+### 📫 Let's Connect
 
-I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate. Feel free to reach out!
+- **LinkedIn:** [linkedin.com/in/mohitkum4r](https://www.linkedin.com/in/mohitkum4r/)
+- **X (Twitter):** [@mohitkum4r](https://x.com/mohitkum4r)
+- **Email:** [mohitkumar4706@gmail.com](mailto:mohitkumar4706@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/mohitkum4r/)
-- [Email](mailto:mohitkumar4706@gmail.com)
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mohitkum4r)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+</p>
