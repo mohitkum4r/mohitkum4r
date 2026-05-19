@@ -37,8 +37,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mohitkum4r&show_icons=true&theme=tokyonight" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkum4r&layout=compact&theme=tokyonight" height="175" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitkum4r&theme=tokyonight" height="190" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitkum4r&theme=tokyonight" height="190" alt="Top Languages" />
 </p>
 
 ---
