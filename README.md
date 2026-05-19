@@ -1,4 +1,4 @@
-# Hey there! I'm Mohit Kumar <img src="https://media.giphy.com/media/hvRJCLzPaCUE6mo2za/giphy.gif" width="25px">
+# Hey there! I'm Mohit Kumar
 
 ### Software Development Engineer 2 @ Publicis Sapient (Client: Galaxy Digital)
 **Building backend systems that don’t panic under pressure.** I specialize in secure asset orchestration, high-scale financial infra, and cloud-native migrations.
